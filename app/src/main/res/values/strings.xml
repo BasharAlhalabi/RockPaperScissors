@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+
+    <string name="text_result_draw">Draw</string>
+    <string name="text_result_win">You Win!</string>
+    <string name="text_result_lose">You Lose.</string>
+    <string name="description_player_hand">player\'s hand</string>
+    <string name="description_auto_hand">Auto Hand</string>
+</resources>
